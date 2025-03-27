@@ -28,5 +28,5 @@ and the simply go to this site
 
 Install packages for server
 ```bash
-pip install flask flask-socketio eventlet gevent gevent-websocket python-socketio
+pip install flask flask-socketio eventlet gevent gevent-websocket python-socketio flask_cors
 ```
