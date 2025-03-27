@@ -25,3 +25,8 @@ http://192.169.x.x:8080
 Your ip and 8080 your port
 
 and the simply go to this site
+
+Install packages for server
+```bash
+pip install flask flask-socketio eventlet gevent gevent-websocket python-socketio
+```
